@@ -2,7 +2,9 @@
 
 I'm [meleu](https://github.com/meleu), a brazilian developer and open source enthusiast. I was born in the 80s and grew up playing 8-bit videogames, and I still love them.
 
-I contribute to the [RetroAchievements](https://retroachievements.org) project doing many nerdy things there. 🤓
+I contribute to the [RetroAchievements](https://github.com/RetroAchievements) project doing many nerdy things there. 🤓
+
+<img src="https://github-readme-stats.vercel.app/api?username=meleu&show_icons=true">
 
 See also: https://meleu.dev/
 
