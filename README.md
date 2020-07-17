@@ -4,9 +4,9 @@ I'm [meleu](https://github.com/meleu), a brazilian developer and open source ent
 
 I contribute to the [RetroAchievements](https://github.com/RetroAchievements) project doing many nerdy things there. 🤓
 
-<img src="https://github-readme-stats.vercel.app/api?username=meleu&show_icons=true">
-
 See also: https://meleu.dev/
+
+<img src="https://github-readme-stats.vercel.app/api?username=meleu&show_icons=true">
 
 <!--
 **meleu/meleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
