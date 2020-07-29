@@ -1,4 +1,4 @@
-<img src="https://github.com/meleu/meleu/raw/master/img/AboutMe-small.gif">
+[![About Me](https://github.com/meleu/meleu/raw/master/img/AboutMe-small.gif)](https://meleu.dev/)
 
 I'm a brazilian developer and open source enthusiast. I was born in the 80s and grew up playing 8-bit videogames, and I still love them.
 
