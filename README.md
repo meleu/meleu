@@ -1,6 +1,6 @@
 <img src="https://github.com/meleu/meleu/raw/master/img/AboutMe-small.gif">
 
-I'm [meleu](https://github.com/meleu), a brazilian developer and open source enthusiast. I was born in the 80s and grew up playing 8-bit videogames, and I still love them.
+I'm a brazilian developer and open source enthusiast. I was born in the 80s and grew up playing 8-bit videogames, and I still love them.
 
 I contribute to the [RetroAchievements](https://github.com/RetroAchievements) project doing many nerdy things there. 🤓
 
