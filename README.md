@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="img/AboutMe.gif">
 
 I'm [meleu](https://github.com/meleu), a brazilian developer and open source enthusiast. I was born in the 80s and grew up playing 8-bit videogames, and I still love them.
 
