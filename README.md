@@ -1,4 +1,4 @@
-<img style="max-width:256px;" src="https://github.com/meleu/meleu/raw/master/img/AboutMe.gif">
+<img src="https://github.com/meleu/meleu/raw/master/img/AboutMe-small.gif">
 
 I'm [meleu](https://github.com/meleu), a brazilian developer and open source enthusiast. I was born in the 80s and grew up playing 8-bit videogames, and I still love them.
 
