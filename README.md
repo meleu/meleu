@@ -1,8 +1,12 @@
 [![About Me](https://github.com/meleu/meleu/raw/master/img/AboutMe-small.gif)](https://meleu.dev/)
 
-I'm a brazilian developer and open source enthusiast. I was born in the 80s and grew up playing 8-bit videogames, and I still love them.
+I'm a bachelor in Computer Science and an open source enthusiast.
 
-I contribute to the [RetroAchievements](https://github.com/RetroAchievements) project doing many nerdy things there. 🤓
+Since 2016 I've been contributing with open source projects related to retrogaming. Notably [RetroAchievements](https://github.com/RetroAchievements), [RetroArch](https://github.com/libretro/RetroArch), and [RetroPie](https://retropie.org.uk/).
+
+I've been constantly improving not only my coding skills (using different programming languages), but also my soft skills (because I need to interact with people coming from many different backgrounds/nationalities). I also produced a lot of documentation.
+
+I am currently focusing my studies on the JavaScript/NodeJS/ReactJS ecosystem, but I am able to work with many different programming language. After all, they're are tools to solve problems, and we must use the best tool for each problem.
 
 See also: https://meleu.dev/
 
