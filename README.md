@@ -10,6 +10,8 @@ I am currently focusing my studies on the JavaScript/NodeJS/ReactJS ecosystem, b
 
 See also: https://meleu.dev/
 
+CV: [🇬🇧 english](cv.md) | [🇧🇷 português](cv-pt_BR.md)
+
 <!--
 **meleu/meleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
