@@ -13,7 +13,7 @@ Desenvolvedor Web | Solucionador de Problemas
 
 Sou bacharel em Ciências da Computação, entusiasta do open source e um solucionador de problemas
 
-Atualmente direcionando minha energia no ecossistema JavaScript / NodeJS / ReactJS, mas também consigo trabalhar com diferentes linguagens de programação. Afinal de contas elas são ferramentas para resolver problemas, e precisamos usar as melhores ferramentas para cada problema.
+Atualmente focando minha energia no ecossistema JavaScript / NodeJS / ReactJS, mas também consigo trabalhar com diferentes linguagens de programação. Afinal de contas elas são ferramentas para resolver problemas, e precisamos usar as melhores ferramentas para cada problema.
 
 Desde 2016 venho contribuindo com projetos open source relacionados a jogos retrô. Notavelmente [RetroAchievements](https://github.com/RetroAchievements), [RetroArch](https://github.com/libretro/RetroArch), e [RetroPie](https://retropie.org.uk/).
 
