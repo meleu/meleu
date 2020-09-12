@@ -1,6 +1,6 @@
 # Augusto "meleu" Lopes
 
-Webdeveloper.
+Webdeveloper | Problem-solver
 
 ## Contact
 
@@ -11,9 +11,9 @@ Webdeveloper.
 
 ## Presentation
 
-I'm a bachelor in Computer Science and an open source enthusiast.
+I'm a bachelor in Computer Science, open source enthusiast, and a problem solver.
 
-Currently focusing my energy on the JavaScript / NodeJS / ReactJS ecosystem, but I am able to work with many different programming languages. After all, they are tools to solve problems, and we must use the best tool for each problem.
+Currently focusing my energy on the JavaScript / NodeJS / ReactJS ecosystem, but able to work with many different programming languages. After all, they are tools to solve problems, and we must use the best tool for each problem.
 
 Since 2016 I've been contributing with open source projects related to retrogaming. Notably [RetroAchievements](https://github.com/RetroAchievements), [RetroArch](https://github.com/libretro/RetroArch), and [RetroPie](https://retropie.org.uk/).
 
@@ -28,21 +28,21 @@ During this time in the oil industry, besides acquiring technical knowledge and 
 
 Rather than listing all programming languages I worked with, I'm going to list what I actually did with them:
 
-- Created the [RANews website](https://news.retroachievements.org/) entirely from scratch. Using only HTML/CSS, and Jekyll as a static site generator.
+- Created the [RANews website](https://news.retroachievements.org/) entirely from scratch. Using only **HTML/CSS**, and **Jekyll** as a static site generator.
 
-- Created and maintain the [RetroAchievements Documentation Project](https://docs.retroachievements.org/), using a combination of github wiki (input), shell scripting, mkdocs and github pages (output).
+- Created and maintain the [RetroAchievements Documentation Project](https://docs.retroachievements.org/), using a combination of github wiki (input), **shell scripting**, **mkdocs** and **github pages** (output).
 
-- Fixed many bugs in the [back-end of the RetroAchievements website](https://github.com/RetroAchievements/RAWeb), using PHP.
+- Fixed many bugs in the [back-end of the RetroAchievements website](https://github.com/RetroAchievements/RAWeb), using **PHP**.
 
-- I contribute with the maintainance of the [RetroAchievements.org](https://retroachievements.org) web server. It's an Ubuntu Server running NginX as a webserver.
+- I contribute with the maintainance of the [RetroAchievements.org](https://retroachievements.org) web server. It's an **Ubuntu Server** running **NginX** as a webserver.
 
-- Created the [RetroAchievements discord bot](https://github.com/RetroAchievements/RABot), using JavaScript, NodeJS and discord.js.
+- Created the [RetroAchievements discord bot](https://github.com/RetroAchievements/RABot), using **JavaScript**, **NodeJS** and **discord.js**.
 
-- Createad and maintain the https://meleu.sh/ website, where I share my knowledge about shell scripting. I use a self-hosted [Ghost CMS](https://ghost.org/) in the backend.
+- Createad and maintain the https://meleu.sh/ website, where I **share my knowledge about shell scripting**. I use a self-hosted [Ghost CMS](https://ghost.org/) in the backend.
 
-- Added some achievement related features into [RetroArch](https://github.com/libretro/RetroArch), using C.
+- Added some achievement related features into [RetroArch](https://github.com/libretro/RetroArch), using **C**.
 
-- Added some automated configuration features to [RetroPie](https://retropie.org.uk/), using shell scripts.
+- Added some automated configuration features to [RetroPie](https://retropie.org.uk/), using **shell scripts**.
 
 
 ## Interests
