@@ -30,7 +30,7 @@ Rather than listing all programming languages I worked with, I'm going to list w
 
 - Created the [RANews website](https://news.retroachievements.org/) entirely from scratch. Using only **HTML/CSS**, and **Jekyll** as a static site generator.
 
-- Created and maintain the [RetroAchievements Documentation Project](https://docs.retroachievements.org/), using a combination of github wiki (input), **shell scripting**, **mkdocs** and **github pages** (output).
+- Created and maintain the [RetroAchievements Documentation Project](https://docs.retroachievements.org/), using a combination of github wiki (input), **shell scripting**, **mkdocs** and **github pages** (output). Since the creation of the documentation, the number of contributors is constantly increasing.
 
 - Fixed many bugs in the [back-end of the RetroAchievements website](https://github.com/RetroAchievements/RAWeb), using **PHP**.
 
