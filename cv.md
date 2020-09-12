@@ -38,7 +38,7 @@ Rather than listing all programming languages I worked with, I'm going to list w
 
 - Created the [RetroAchievements discord bot](https://github.com/RetroAchievements/RABot), using **JavaScript**, **NodeJS** and **discord.js**.
 
-- Createad and maintain the https://meleu.sh/ website, where I **share my knowledge about shell scripting**. I use a self-hosted [Ghost CMS](https://ghost.org/) in the backend.
+- Createad and maintain the https://meleu.sh/ website, where I **share my knowledge about shell scripting** (portuguese content). I use a self-hosted [Ghost CMS](https://ghost.org/) in the backend.
 
 - Added some achievement related features into [RetroArch](https://github.com/libretro/RetroArch), using **C**.
 
