@@ -13,15 +13,15 @@ Webdeveloper.
 
 I'm a bachelor in Computer Science and an open source enthusiast.
 
-Currently a Control Room Operator of an Oil Rig with 16 years of experience, but willing to change my career into a webdeveloper (programming is my passion since I was a teenager).
-
-While working in the oil industry, besides acquiring great technical knowledge and systemic view of industrial processes, I was also able to develop my social skills, working/managing people with different backgrounds.
+Currently focusing my energy on the JavaScript / NodeJS / ReactJS ecosystem, but I am able to work with many different programming languages. After all, they are tools to solve problems, and we must use the best tool for each problem.
 
 Since 2016 I've been contributing with open source projects related to retrogaming. Notably [RetroAchievements](https://github.com/RetroAchievements), [RetroArch](https://github.com/libretro/RetroArch), and [RetroPie](https://retropie.org.uk/).
 
-While working on such projects I've been constantly improving not only my coding skills (HTML/CSS/JavaScript/PHP/C/bash), but also my soft skills (as I need to interact with people coming from many different backgrounds/nationalities). I also produced a lot of [documentation](https://docs.retroachievements.org/).
+While working on such projects I've been constantly improving my coding skills (HTML, CSS, JavaScript, PHP, C, bash, etc.) and soft skills (as I need to interact with people coming from many different nationalities). I also produced a lot of [documentation](https://docs.retroachievements.org/).
 
-I am currently focusing my studies on the JavaScript/NodeJS/ReactJS ecosystem, but I am able to work with many different programming language. After all, they are tools to solve problems, and we must use the best tool for each problem.
+Currently I'm working as a Control Room Operator of an Oil Rig with 16 years of experience, but willing to change my career into a webdeveloper (programming is my passion since I was a teenager).
+
+During this time in the oil industry, besides acquiring technical knowledge and systemic view of industrial processes, I was also able to develop my social skills, working and managing people with different backgrounds.
 
 
 ## Accomplishments
