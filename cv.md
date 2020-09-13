@@ -48,7 +48,7 @@ Rather than listing all programming languages I worked with, I'm going to list w
 ## Interests
 
 - Open web technologies
-- Linux
+- Linux Servers
 - Retrogaming
 
 
