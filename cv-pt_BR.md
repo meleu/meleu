@@ -32,7 +32,7 @@ Ao invés de listar todas as linguagens de programação com as quais eu já tra
 
 - Criei e mantenho o [RetroAchievements Documentation Project](https://docs.retroachievements.org/), usando uma combinação de github wiki (input), **shell scripting**, **mkdocs** e **github pages** (output).
 
-- Corrige inúmeros bugs no [back-end do website RetroAchievements](https://github.com/RetroAchievements/RAWeb), usando **PHP**.
+- Corrigi inúmeros bugs no [back-end do website RetroAchievements](https://github.com/RetroAchievements/RAWeb), usando **PHP**.
 
 - Eu contribuo com a manutenção do servidor [RetroAchievements.org](https://retroachievements.org). Trata-se de um **Ubuntu Server** rodando **NginX** como webserver.
 
