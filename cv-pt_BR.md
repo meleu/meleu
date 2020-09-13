@@ -17,7 +17,7 @@ Atualmente focando minha energia no ecossistema JavaScript / NodeJS / ReactJS, m
 
 Desde 2016 venho contribuindo com projetos open source relacionados a jogos retrô. Notavelmente [RetroAchievements](https://github.com/RetroAchievements), [RetroArch](https://github.com/libretro/RetroArch), e [RetroPie](https://retropie.org.uk/).
 
-Ao trabalhar em tais projetos venho constantemente evoluindo minhas habilidades de programação (HTML, CSS, JavaScript, SQL, git, PHP, C, bash, etc.), mas também minhas habilidades interpessoais (pois preciso interagir com pessoas vindas de muitas nacionalidades diferentes). Eu também produzi bastante [documentação](https://docs.retroachievements.org/).
+Ao trabalhar em tais projetos venho constantemente evoluindo minhas habilidades de programação (HTML, CSS, JavaScript, SQL, git, PHP, C, bash, etc.), e também minhas habilidades interpessoais (pois preciso interagir com pessoas vindas de muitas nacionalidades diferentes). Eu também produzi bastante [documentação](https://docs.retroachievements.org/).
 
 Atualmente Operador de Sala de Controle de uma plataforma de petróleo com 16 anos de atuação, mas desejando mudar de carreira e se tornar um desenvolvedor web (programação é minha paixão desde que eu era um adolescente).
 
