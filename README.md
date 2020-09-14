@@ -1,6 +1,6 @@
 [![About Me](https://github.com/meleu/meleu/raw/master/img/AboutMe-small.gif)](https://meleu.dev/)
 
-I'm a bachelor in Computer Science and an open source enthusiast.
+I'm a bachelor in Computer Science, an open source enthusiast and a problem solver.
 
 Currently focusing my energy on the JavaScript / NodeJS / ReactJS ecosystem, but I am able to work with many different programming languages. After all, they are tools to solve problems, and we must use the best tool for each problem.
 
