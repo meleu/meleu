@@ -2,6 +2,8 @@
 
 Desenvolvedor Web | Solucionador de Problemas
 
+<small>[🇬🇧 english version/versão em inglês](cv.md)</small>
+
 ## Contato
 
 - <https://meleu.dev>
