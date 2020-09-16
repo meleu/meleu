@@ -4,9 +4,9 @@ Webdeveloper | Problem-solver
 
 ## Contact
 
-- https://meleu.dev
-- https://github.com/meleu
-- https://www.linkedin.com/in/meleu/
+- <https://meleu.dev>
+- <https://github.com/meleu>
+- <https://www.linkedin.com/in/meleu/>
 
 
 ## Presentation
