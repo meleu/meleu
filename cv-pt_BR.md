@@ -4,9 +4,9 @@ Desenvolvedor Web | Solucionador de Problemas
 
 ## Contato
 
-- https://meleu.dev
-- https://github.com/meleu
-- https://www.linkedin.com/in/meleu/
+- <https://meleu.dev>
+- <https://github.com/meleu>
+- <https://www.linkedin.com/in/meleu/>
 
 
 ## Apresentação
