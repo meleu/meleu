@@ -2,6 +2,8 @@
 
 Webdeveloper | Problem-solver
 
+<small>[🇧🇷 versão em português/portuguese version](cv-pt_BR.md)</small>
+
 ## Contact
 
 - <https://meleu.dev>
