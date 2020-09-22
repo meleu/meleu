@@ -6,7 +6,7 @@ Currently focusing my energy on the JavaScript / NodeJS / ReactJS ecosystem, but
 
 Since 2016 I've been contributing with open source projects related to retrogaming. Notably [RetroAchievements](https://github.com/RetroAchievements), [RetroArch](https://github.com/libretro/RetroArch), and [RetroPie](https://retropie.org.uk/).
 
-While working on such projects I've been constantly improving my coding skills (HTML, CSS, JavaScript, PHP, C, bash, etc.) and soft skills (as I need to interact with people coming from many different nationalities). I also produced a lot of [documentation](https://docs.retroachievements.org/).
+While working on such projects I've been constantly improving my coding skills (HTML, CSS, JavaScript, SQL, git, PHP, C, bash, etc.) and soft skills (as I need to interact with people coming from many different nationalities). I also produced a lot of [documentation](https://docs.retroachievements.org/).
 
 
 See also: https://meleu.dev/
