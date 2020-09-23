@@ -13,6 +13,4 @@ See also: https://meleu.dev/
 
 CV: [🇬🇧 english](https://meleu.github.io/meleu/cv) | [🇧🇷 português](https://meleu.github.io/meleu/cv-pt_BR)
 
-## GitHub stats
-
 ![meleu's github stats](https://github-readme-stats.vercel.app/api?username=meleu&show_icons=true)
