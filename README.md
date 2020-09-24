@@ -8,9 +8,8 @@ Since 2016 I've been contributing with open source projects related to retrogami
 
 While working on such projects I've been constantly improving my coding skills (HTML, CSS, JavaScript, SQL, git, PHP, C, bash, etc.) and soft skills (as I need to interact with people coming from many different nationalities). I also produced a lot of [documentation](https://docs.retroachievements.org/).
 
+![meleu's github stats](https://github-readme-stats.vercel.app/api?username=meleu&show_icons=true)
 
 See also: https://meleu.dev/
 
 CV: [🇬🇧 english](https://meleu.github.io/meleu/cv) | [🇧🇷 português](https://meleu.github.io/meleu/cv-pt_BR)
-
-![meleu's github stats](https://github-readme-stats.vercel.app/api?username=meleu&show_icons=true)
