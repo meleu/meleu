@@ -21,7 +21,7 @@ Desde 2016 venho contribuindo com projetos open source relacionados a jogos retr
 
 Ao trabalhar em tais projetos venho constantemente evoluindo minhas habilidades de programação (HTML, CSS, JavaScript, SQL, git, PHP, C, bash, etc.), e também minhas habilidades interpessoais (pois preciso interagir com pessoas vindas de muitas nacionalidades diferentes). Eu também produzi bastante [documentação](https://docs.retroachievements.org/).
 
-Atualmente Operador de Sala de Controle de uma plataforma de petróleo com 16 anos de atuação, mas desejando mudar de carreira e se tornar um desenvolvedor web (programação é minha paixão desde que eu era um adolescente).
+Atualmente atuando como Operador de Sala de Controle de uma plataforma de petróleo com 16 anos de experiência, mas desejando mudar de carreira e me tornar um desenvolvedor web (programação é minha paixão desde que eu era um adolescente).
 
 Durante o trabalho na indústria do petróleo, além de adquirir um grande conhecimento técnico e visão sistêmica de processos industriais, eu também desenvolvi minhas habilidades sociais, trabalhando e gerenciando pessoas de variadas culturas.
 
