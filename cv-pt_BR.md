@@ -25,7 +25,7 @@ Atualmente atuando como Operador de Sala de Controle de uma plataforma de petró
 
 Durante o trabalho na indústria do petróleo, além de adquirir um grande conhecimento técnico e visão sistêmica de processos industriais, eu também desenvolvi minhas habilidades sociais, trabalhando e gerenciando pessoas de variadas culturas.
 
-
+<a name=realizacoes></a>
 ## Realizações
 
 Ao invés de listar todas as linguagens de programação com as quais eu já trabalhei, vou listar o que eu realmente fiz com elas:
