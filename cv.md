@@ -1,6 +1,6 @@
 # Augusto "meleu" Lopes
 
-Webdeveloper | Problem-solver
+Webdeveloper | SysAdmin
 
 <small>[🇧🇷 versão em português/portuguese version](cv-pt_BR.md)</small>
 
