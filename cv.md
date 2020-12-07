@@ -15,7 +15,7 @@ Webdeveloper | Problem-solver
 
 I'm a bachelor in Computer Science, open source enthusiast, and a problem solver.
 
-Currently focusing my energy on the JavaScript / NodeJS / ReactJS ecosystem, but able to work with many different programming languages. After all, they are tools to solve problems, and we must use the best tool for each problem.
+Currently focusing my energy on the JavaScript / NodeJS / ReactJS ecosystem, but able to work with many different programming languages (whatever is best suited to solve the problem).
 
 Since 2016 I've been contributing with open source projects related to retrogaming. Notably [RetroAchievements](https://github.com/RetroAchievements), [RetroArch](https://github.com/libretro/RetroArch), and [RetroPie](https://retropie.org.uk/).
 
