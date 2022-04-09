@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! 👋 I'm meleu, from Brazil 🇧🇷.
 
-<!--
-**meleu/meleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Linux nerd since the late 90s and currently I work as a DevOps Specialist (dealing with GCP, gitlab-ci, NodeJS, Docker, Kubernetes, ArgoCD, and a bunch of other nerdy things).
 
-Here are some ideas to get you started:
+I love bash and I try to apply Clean Code concepts on my scripts. If you like shell-scripts and also care for your code, let's connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+btw, I also love 🕹️ [retroachievements](https://retroachievements.org/) 👾
+
+I write a blog (**in portuguese**) totally focused on the shell: <https://meleu.sh>
+
+### Últimos artigos do [meleu.sh](https://meleu.sh/)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
