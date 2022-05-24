@@ -1,4 +1,4 @@
-# Hi! 👋 I'm meleu, from Brazil 🇧🇷.
+# Hi! 👋 I'm meleu
 
 I'm a Linux nerd since the late 90s and currently I work as a DevOps Specialist (dealing with GCP, gitlab-ci, NodeJS, Docker, Kubernetes, ArgoCD, and a bunch of other nerdy things).
 
