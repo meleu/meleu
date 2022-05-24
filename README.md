@@ -11,9 +11,9 @@ I write a blog (**in portuguese**) totally focused on the shell environment: <ht
 ## Últimos artigos do [meleu.sh](https://meleu.sh/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Comece por aqui!](https://meleu.sh/comeco/)
+- [Mantenha a consistência na formatação do seu código com shfmt](https://meleu.sh/shfmt/)
 - [Use shellcheck e livre-se dos bugs no seu código antes mesmo de executá-lo](https://meleu.sh/shellcheck/)
 - [Uma maneira limpa e inteligente de gerenciar seus dotfiles em um repositório git](https://meleu.sh/dotfiles/)
 - [Chega de commitar no repositório do trabalho com seus dados do github &lpar;e vice-versa&rpar;!](https://meleu.sh/git-multiconfig/)
-- [Como detectar precisamente onde seu script está quebrando](https://meleu.sh/trap-err/)
-- [Deixe o bash mais rigoroso com seu script e evite dores de cabeça](https://meleu.sh/bash-rigoroso/)
 <!-- BLOG-POST-LIST:END -->
