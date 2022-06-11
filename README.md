@@ -1,9 +1,8 @@
 # Hi! 👋 I'm meleu
 
-Some facts about me:
+- 🐧 I'm a Linux nerd since the late 90s
 
-- I'm a Linux nerd since the late 90s
-- currently working as a DevOps Specialist, dealing with things like
+- 🧑‍💻 currently working as a DevOps Specialist, dealing with things like
     - bash (a lot of bash)
     - GCP
     - GitLab CI
@@ -12,11 +11,13 @@ Some facts about me:
     - ArgoCD
     - NodeJS
     - and a bunch of other nerdy things
-- I love bash and I try to apply Clean Code concepts on my scripts.
 
-- I also love 🕹️ [RetroAchievements](https://retroachievements.org/) 👾
+- 🐚 I love the shell (mainly bash) and I try to apply Clean Code concepts on my scripts.
 
-- I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
+- 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
+
+- 🕹️ I also love [RetroAchievements](https://retroachievements.org/) 👾
+
 
 
 ## Últimos artigos do [meleu.sh](https://meleu.sh/)
