@@ -2,7 +2,7 @@
 
 - 🐧 I'm a Linux nerd since the late 90s
 
-- 🧑‍💻 currently working as a DevOps Specialist, dealing with things like
+- 🧑‍💻 Software Engineer currently working as a DevOps Specialist, dealing with things like
     - bash (a lot of bash)
     - GCP
     - GitLab CI
