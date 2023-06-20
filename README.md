@@ -18,13 +18,6 @@
 
 - 🕹️ I also love [RetroAchievements](https://retroachievements.org/) 👾
 
-## GitHub Stats
-
-<div>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleu" alt="GitHub Stats" />
-  </p>
-</div>
 
 ## Últimos artigos do [meleu.sh](https://meleu.sh/)
 
@@ -35,3 +28,11 @@
 - [Uma maneira limpa e inteligente de gerenciar seus dotfiles em um repositório git](https://meleu.sh/dotfiles/)
 - [Chega de commitar no repositório do trabalho com seus dados do github &lpar;e vice-versa&rpar;!](https://meleu.sh/git-multiconfig/)
 <!-- BLOG-POST-LIST:END -->
+
+## GitHub Stats
+
+<div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleu" alt="GitHub Stats" />
+  </p>
+</div>
