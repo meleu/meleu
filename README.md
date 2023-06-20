@@ -18,7 +18,13 @@
 
 - 🕹️ I also love [RetroAchievements](https://retroachievements.org/) 👾
 
+## GitHub Stats
 
+<div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleu" alt="GitHub Stats" />
+  </p>
+</div>
 
 ## Últimos artigos do [meleu.sh](https://meleu.sh/)
 
