@@ -9,8 +9,7 @@
     - Kubernetes
     - ArgoCD
     - NodeJS
-    - bash (a lot of bash)
-    - and a bunch of other nerdy things
+    - bash
 
 - 📚 Topics I'm currently delving into:
     - Ruby on Rails
