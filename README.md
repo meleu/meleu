@@ -2,7 +2,7 @@
 
 - 🐧 I'm a Linux nerd since the late 90s
 
-- 🧑‍💻 Software Engineer currently working as a DevOps Specialist, dealing with things like
+- 🧑‍💻 Software Engineer with experience as a DevOps Specialist, dealing with things like
     - GCP
     - GitLab CI
     - Docker
@@ -11,6 +11,11 @@
     - NodeJS
     - bash (a lot of bash)
     - and a bunch of other nerdy things
+
+- 📚 Topics I'm currently delving into:
+    - Ruby on Rails
+    - TDD
+    - Rust
 
 - 🧼 I like my code clean and maintainable.
 
