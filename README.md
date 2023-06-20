@@ -3,16 +3,16 @@
 - 🐧 I'm a Linux nerd since the late 90s
 
 - 🧑‍💻 Software Engineer currently working as a DevOps Specialist, dealing with things like
-    - bash (a lot of bash)
     - GCP
     - GitLab CI
     - Docker
     - Kubernetes
     - ArgoCD
     - NodeJS
+    - bash (a lot of bash)
     - and a bunch of other nerdy things
 
-- 🐚 I love the shell (mainly bash) and I try to apply Clean Code concepts on my scripts.
+- 🧼 I like my code clean and maintainable.
 
 - 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
