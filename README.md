@@ -13,8 +13,8 @@
 
 - 📚 Topics I'm currently delving into:
     - Ruby on Rails
-    - TDD
     - JavaScript/TypeScript
+    - TDD
 
 - 🧼 I like my code clean and maintainable.
 
