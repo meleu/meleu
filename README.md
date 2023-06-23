@@ -21,7 +21,7 @@
 
 - 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
-- 🕹️ I also contribute to [RetroAchievements](https://retroachievements.org/) 👾
+- 🕹️ I contribute to [RetroAchievements](https://retroachievements.org/) 👾
 
 
 ## Últimos artigos do [meleu.sh](https://meleu.sh/)
