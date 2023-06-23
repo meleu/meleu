@@ -2,7 +2,9 @@
 
 - 🐧 I'm a Linux nerd since the late 90s
 
-- 🧑‍💻 Software Engineer with experience as a DevOps Specialist, dealing with things like
+- 🧑‍💻 **Software Engineer** with experience as a DevOps Specialist, dealing with things like
+    - Ruby on Rails
+    - JavaScript
     - GCP
     - GitLab CI
     - Docker
@@ -12,15 +14,14 @@
     - bash
 
 - 📚 Topics I'm currently delving into:
-    - Ruby on Rails
-    - JavaScript/TypeScript
-    - TDD
+    - TypeScript
+    - Test-Driven Development
 
 - 🧼 I like my code clean and maintainable.
 
 - 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
-- 🕹️ I also love [RetroAchievements](https://retroachievements.org/) 👾
+- 🕹️ I also contribute to [RetroAchievements](https://retroachievements.org/) 👾
 
 
 ## Últimos artigos do [meleu.sh](https://meleu.sh/)
