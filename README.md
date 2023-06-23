@@ -14,7 +14,7 @@
 - 📚 Topics I'm currently delving into:
     - Ruby on Rails
     - TDD
-    - Rust
+    - JavaScript/TypeScript
 
 - 🧼 I like my code clean and maintainable.
 
