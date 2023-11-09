@@ -7,13 +7,13 @@
     - CI pipelines (GitHub Actions and GitLab CI)
     - DevOps culture transformation (bring quality to the origin!)
     - containers (Docker / Kubernetes / ArgoCD)
-    - bash
 
 - 📚 Topics I'm currently delving into:
-    - How to convince managers to pursue "shift left"
+    - How to convince managers that high quality code is the way to go faster
     - Test-Driven Development
+    - Software Architecture
 
-- 🧼 I like my code clean and maintainable.
+- 🧼 I like my code clean and easy to maintain.
 
 - 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
