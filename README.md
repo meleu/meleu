@@ -2,19 +2,15 @@
 
 - 🐧 I'm a Linux nerd since the late 90s
 
-- 🧑‍💻 **Software Engineer** with experience as a DevOps Specialist, dealing with things like
+- 🧑‍💻 **Software Engineer**, dealing with things like
     - Ruby on Rails
-    - JavaScript
-    - GCP
-    - GitLab CI
-    - Docker
-    - Kubernetes
-    - ArgoCD
-    - NodeJS
+    - CI pipelines (GitHub Actions and GitLab CI)
+    - DevOps culture transformation (bring quality to the origin!)
+    - containers (Docker / Kubernetes / ArgoCD)
     - bash
 
 - 📚 Topics I'm currently delving into:
-    - TypeScript
+    - How to convince managers to pursue "shift left"
     - Test-Driven Development
 
 - 🧼 I like my code clean and maintainable.
