@@ -9,7 +9,7 @@
     - containers (Docker / Kubernetes / ArgoCD)
 
 - 📚 Topics I'm currently delving into:
-    - How to convince managers that high quality code is the way to go faster
+    - How to convince managers that high quality code is the cheaper way to go faster
     - Test-Driven Development
     - Software Architecture
 
