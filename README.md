@@ -3,7 +3,7 @@
 - 🐧 I'm a Linux nerd since the late 90s
 
 - 🧑‍💻 **Software Engineer**, dealing with things like
-    - Ruby on Rails
+    - Ruby on Rails and JavaScript
     - CI pipelines (GitHub Actions and GitLab CI)
     - DevOps culture transformation (bring quality to the origin!)
     - containers (Docker / Kubernetes / ArgoCD)
