@@ -3,13 +3,14 @@
 - 🐧 I'm a Linux nerd since the late 90s
 
 - 🧑‍💻 **Software Engineer**, dealing with things like
-    - Ruby on Rails and JavaScript
-    - CI pipelines (GitHub Actions and GitLab CI)
-    - DevOps culture transformation (bring quality to the origin!)
+    - CI/CD pipelines (GitHub Actions and GitLab CI)
     - containers (Docker / Kubernetes / ArgoCD)
+    - observability
+    - DevOps culture transformation (bring quality as near to the origin as possible!)
+    - Ruby on Rails and JavaScript/TypeScript
 
 - 📚 Topics I'm currently delving into:
-    - How to convince managers that high quality code is the cheaper way to go faster
+    - Convince people that high quality code is the cheaper way to go faster
     - Test-Driven Development
     - Software Architecture
 
