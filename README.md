@@ -6,7 +6,8 @@
     - CI/CD pipelines (GitHub Actions and GitLab CI)
     - containers (Docker / Kubernetes / ArgoCD)
     - observability
-    - DevOps culture transformation (bring quality as near to the origin as possible!)
+    - Cloud providers (GCP, AWS, DigitalOcean)
+    - DevOps practices (bring quality as near to the origin as possible!)
     - Ruby on Rails and JavaScript/TypeScript
 
 - 📚 Topics I'm currently delving into:
