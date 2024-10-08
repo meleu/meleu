@@ -1,7 +1,5 @@
 # Hi! 👋 I'm meleu
 
-- 🐧 I'm a Linux nerd since the late 90s
-
 - 🧑‍💻 **Software Engineer**, dealing with things like
     - Ruby on Rails
     - JavaScript/TypeScript
@@ -10,8 +8,12 @@
     - Cloud providers (GCP, AWS, DigitalOcean)
     - DevOps practices (bring quality as near to the origin as possible!)
 
+- 📝 Currently writing [Learn Ruby with TDD](https://tdd-ruby.gitbook.io/)
+
+- 🐧 I'm a Linux nerd since the late 90s
+
 - 📚 Topics I'm currently delving into:
-    - Convince people that high quality code is the cheaper way to go faster
+    - Convince people that high quality code is the cheaper way to go fast
     - Test-Driven Development
     - Software Architecture
 
@@ -21,7 +23,7 @@
 
 - 🌱 I have a digital garden at <https://meleu.dev> (to open source my second 🧠 brain).
 
-- 🕹️ I contribute to [RetroAchievements](https://retroachievements.org/) 👾
+- 🕹️ I contributed to [RetroAchievements](https://retroachievements.org/) 👾
 
 ## Open Source efforts
 
