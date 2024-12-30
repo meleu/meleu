@@ -21,7 +21,7 @@
 
 - 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
-- 🌱 I have a digital garden at <https://meleu.vercel.app/> (to open source my second 🧠 brain).
+- 🌱 I have a digital garden at <https://meleu.dev/> (to open source my second 🧠 brain).
 
 - 🕹️ I contributed to [RetroAchievements](https://retroachievements.org/) 👾
 
