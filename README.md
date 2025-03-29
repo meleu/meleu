@@ -47,10 +47,10 @@ Since I put a lot of effort into the [RetroAchievements](https://retroachievemen
 ## Últimos artigos do [meleu.sh](https://meleu.sh/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Aprenda TDD no Bash](https://meleu.sh/tdd-bash/)
+- [Habilitando auto-suggestions no bash](https://meleu.sh/blesh/)
 - [Configuração do LazyVim pós-instalação](https://meleu.sh/lazyvim/)
 - [Comece por aqui!](https://meleu.sh/comeco/)
 - [Mantenha a consistência na formatação do seu código com shfmt](https://meleu.sh/shfmt/)
-- [Use shellcheck e livre-se dos bugs no seu código antes mesmo de executá-lo](https://meleu.sh/shellcheck/)
-- [Uma maneira limpa e inteligente de gerenciar seus dotfiles em um repositório git](https://meleu.sh/dotfiles/)
 <!-- BLOG-POST-LIST:END -->
 
