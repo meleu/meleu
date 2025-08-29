@@ -47,10 +47,10 @@ Since I put a lot of effort into the [RetroAchievements](https://retroachievemen
 ## Últimos artigos do [meleu.sh](https://meleu.sh/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Crie aplicações CLI robustas com o Bashly](https://meleu.sh/bashly/)
 - [Aplicando TDD no Bash](https://meleu.sh/hello-tdd/)
 - [Setup básico do BATS](https://meleu.sh/bats/)
 - [Aprenda TDD no Bash](https://meleu.sh/tdd-bash/)
 - [Habilitando auto-suggestions no bash](https://meleu.sh/blesh/)
-- [Configuração do LazyVim pós-instalação](https://meleu.sh/lazyvim/)
 <!-- BLOG-POST-LIST:END -->
 
