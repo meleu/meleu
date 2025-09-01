@@ -13,17 +13,13 @@
 - 🐧 I'm a Linux nerd since the late 90s
 
 - 📚 Topics I'm currently delving into:
-    - Convince people that high quality code is the cheaper way to go fast
+    - Prove that high quality code is the cheaper way to go fast
     - Test-Driven Development
     - Software Architecture
-
-- 🧼 I like my code clean and easy to maintain.
 
 - 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
 - 🌱 I have a digital garden at <https://meleu.dev/> (to open source my second 🧠 brain).
-
-- 🕹️ I contributed to [RetroAchievements](https://retroachievements.org/) 👾
 
 ## Open Source efforts
 
