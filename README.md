@@ -2,7 +2,7 @@
 
 - 🧑‍💻 **Software Engineer**, dealing with things like
     - Ruby on Rails
-    - JavaScript/TypeScript
+    - JavaScript/TypeScript and Golang
     - CI/CD pipelines (GitHub Actions and GitLab CI)
     - containers (Docker / Kubernetes / ArgoCD)
     - Cloud providers (GCP, AWS, DigitalOcean)
