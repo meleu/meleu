@@ -1,8 +1,7 @@
 # Hi! 👋 I'm meleu
 
 - 🧑‍💻 **Software Engineer**, dealing with things like
-    - Ruby on Rails
-    - JavaScript/TypeScript and Golang
+    - Golang, Ruby on Rails, JavaScript/TypeScript (and some other languages)
     - CI/CD pipelines (GitHub Actions and GitLab CI)
     - containers (Docker / Kubernetes / ArgoCD)
     - Cloud providers (GCP, AWS, DigitalOcean)
