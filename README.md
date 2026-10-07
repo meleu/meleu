@@ -1,6 +1,6 @@
 # Hi! 👋 I'm meleu
 
-- 🕹️ **Retro gaming & emulation enthusiast**: contributor to RetroArch, RetroAchievements and RetroPie (details below)
+- 🕹️ **Retro gaming & emulation enthusiast**: contributor to RetroArch, RetroAchievements and RetroPie
 - 🧑‍💻 **Software Engineer** working with:
   - C, Python, Bash, Go, Ruby, JavaScript/TypeScript
   - CI/CD pipelines (GitHub Actions and GitLab CI)
